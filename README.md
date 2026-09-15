@@ -25,8 +25,8 @@
 >touch .env
 2. add OPENAI_API_KEY + password
 
-#
->mdir pages
+# create pages folder
+>mkdir pages
 
 # create streamlit application
 1. create python file entrypoint
