@@ -1,3 +1,4 @@
+import streamlit as st
 st.title("Day 3")
 
 if "bubble1" not in st.session_state:
