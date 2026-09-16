@@ -23,7 +23,7 @@
 # Step-3 create a .env file to store secrets
 1. create .env file
 >touch .env
-2. add OPENAI_API_KEY + password
+2. add OPENAI_API_KEY + PASSWORD
 
 # create pages folder
 >mkdir pages
